@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto';
+}
+.shoe-header{
+    background-color: #FFF9F4;
+}
+.shoe-navbar{
+    background-color: #FFF9F4;
+}
+.shoe-pink-font{
+    color: #FA804C;
+}
+.shoe-font-blue{
+    color: #363958;
+}
+.shoe-button{
+    color: white;
+    background-color: #3d4ff3;
+}
+.shoe-button img{
+    width: 17%;
+}
+.shoe-round{
+    border-radius: 15px;
+}
+.shoe-bonus-image:hover {
+    overflow: hidden ;
+    transition: transform 3s;
+    transform: scale(120%);
+    box-shadow: 5px 5px 20px lightcoral;
+}
+.shoe-bonus-title{
+    text-shadow:1px 1px 40px #363958;
+}
+.shoe-bonus-title:hover{
+    text-shadow:1px 1px 40px #f1670b;
+}
+.shoe-bonus-button:hover{
+    background-color:#2638dd;
+}
